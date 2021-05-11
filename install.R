@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 package.list <- matrix(c(
     "climate4R.UDG",      "0.2.0",
     "loadeR.java",        "1.1.1",
